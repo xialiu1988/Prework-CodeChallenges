@@ -19,6 +19,8 @@ namespace Prework_CodeChallenges
              leapyearcalculator(b);
              //challenge3
              perfectsequence();
+             //challenge4
+             sumofrows();
         }
     public static void arraymaxresult(int[] arr,int a){
         int score=0;
@@ -74,6 +76,39 @@ else if(sum==product){
             }
 
   }
+
+
+public static void sumofrows(){
+
+Console.WriteLine("please enter the number of Rows you want:");
+int rownumber=Int32.Parse(Console.ReadLine());
+Console.WriteLine("please enter the number of Columns you want:");
+int colnumber=Int32.Parse(Console.ReadLine());
+
+int[,] newarr=new int[rownumber,colnumber];
+
+Random rannum=new Random();
+
+for(int i=0;i<rownumber;i++){
+
+    for(int j=0;j<colnumber;j++){
+        newarr[i,j]=rannum.Next(-100,100);
+    }
+}
+
+int sum=0;
+int[] sumarr=new int[newarr.GetLength(0)];
+for(int i=0;i<newarr.GetLength(0);i++){
+  for(int j=0;j<newarr.GetLength(1);j++){
+      sum+=newarr[i,j];
+  }
+sumarr[i]=sum;
+}
+
+ Console.WriteLine($"The sum output is: [{String.Join(", ", sumarr)}]");
+
+}
+
 
     }
 }
