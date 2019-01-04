@@ -1,0 +1,11 @@
+/Users/xialiu/codefellows/401/prework/Prework-CodeChallenges/bin/Debug/netcoreapp2.2/Prework-CodeChallenges.deps.json
+/Users/xialiu/codefellows/401/prework/Prework-CodeChallenges/bin/Debug/netcoreapp2.2/Prework-CodeChallenges.runtimeconfig.json
+/Users/xialiu/codefellows/401/prework/Prework-CodeChallenges/bin/Debug/netcoreapp2.2/Prework-CodeChallenges.runtimeconfig.dev.json
+/Users/xialiu/codefellows/401/prework/Prework-CodeChallenges/bin/Debug/netcoreapp2.2/Prework-CodeChallenges.dll
+/Users/xialiu/codefellows/401/prework/Prework-CodeChallenges/bin/Debug/netcoreapp2.2/Prework-CodeChallenges.pdb
+/Users/xialiu/codefellows/401/prework/Prework-CodeChallenges/obj/Debug/netcoreapp2.2/Prework-CodeChallenges.csprojAssemblyReference.cache
+/Users/xialiu/codefellows/401/prework/Prework-CodeChallenges/obj/Debug/netcoreapp2.2/Prework-CodeChallenges.csproj.CoreCompileInputs.cache
+/Users/xialiu/codefellows/401/prework/Prework-CodeChallenges/obj/Debug/netcoreapp2.2/Prework-CodeChallenges.AssemblyInfoInputs.cache
+/Users/xialiu/codefellows/401/prework/Prework-CodeChallenges/obj/Debug/netcoreapp2.2/Prework-CodeChallenges.AssemblyInfo.cs
+/Users/xialiu/codefellows/401/prework/Prework-CodeChallenges/obj/Debug/netcoreapp2.2/Prework-CodeChallenges.dll
+/Users/xialiu/codefellows/401/prework/Prework-CodeChallenges/obj/Debug/netcoreapp2.2/Prework-CodeChallenges.pdb
